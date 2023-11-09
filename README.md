@@ -1,6 +1,8 @@
+To use local bot scripts, just clone this repo (the lua files) into Steam/steamapps/common/dota 2 beta/game/dota/scripts/vscripts/bots
+
 Create lobby, set server location as "Local Host", set bots as "Local Dev Script"
 
-Alternative, with use console commands
+Alternatively, use console commands. Run:
 `map dota`
 
 `jointeam spec`

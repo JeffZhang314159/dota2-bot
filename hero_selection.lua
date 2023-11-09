@@ -8,8 +8,8 @@ function Think()
 		SafeSelectHero( 3, "npc_dota_hero_bloodseeker" );
 		SafeSelectHero( 4, "npc_dota_hero_crystal_maiden" );
 	elseif ( GetTeam() == TEAM_DIRE ) then
-		SafeSelectHero( 5, "npc_dota_hero_pudge" );
-		SafeSelectHero( 6, "npc_dota_hero_earthshaker" );
+		SafeSelectHero( 5, "npc_dota_hero_earthshaker" );
+		SafeSelectHero( 6, "npc_dota_hero_pudge" );
 		SafeSelectHero( 7, "npc_dota_hero_juggernaut" );
 		SafeSelectHero( 8, "npc_dota_hero_mirana" );
 		SafeSelectHero( 9, "npc_dota_hero_nevermore" );
